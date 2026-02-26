@@ -1,0 +1,1 @@
+[![Daily Repository Update](https://github.com/hemasurya106/devsync-daily-update/actions/workflows/daily-update.yml/badge.svg)](https://github.com/hemasurya106/devsync-daily-update/actions/workflows/daily-update.yml)
